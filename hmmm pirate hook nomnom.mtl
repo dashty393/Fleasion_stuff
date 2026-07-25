@@ -1,0 +1,55 @@
+# Blender 5.1.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Leftarm1Mtl
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.722672 0.263175 0.130352
+Ks 0.023345 0.023345 0.023345
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Leftarm2Mtl
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.062745 0.062745 0.062745
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Soura/AppData/Roaming/Blender Foundation/Blender/5.1/scripts/addons/RRA Importer/weapons/Melee/Leftarm2_diff.png
+map_d C:/Users/Soura/Downloads/C:/Users/Soura/AppData/Local/Temp/tmpdzbfm_av/Leftarm2_diff.png
+
+newmtl Meshpart1Mtl
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.004407 0.004407 0.004407
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Soura/AppData/Roaming/Blender Foundation/Blender/5.1/scripts/addons/RRA Importer/skins/Melee/Fists/Pirate Hook/Meshpart1_diff.png
+map_d C:/Users/Soura/Downloads/C:/Users/Soura/AppData/Local/Temp/tmphtbb8uiw/Meshpart1_diff.png
+map_Bump C:/Users/Soura/Downloads/C:/Users/Soura/AppData/Local/Temp/tmphtbb8uiw/Meshpart1_nmap.png
+
+newmtl Meshpart2Mtl
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.173445 0.173445 0.173445
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/Soura/AppData/Roaming/Blender Foundation/Blender/5.1/scripts/addons/RRA Importer/skins/Melee/Fists/Pirate Hook/Meshpart1_diff.png
+map_d C:/Users/Soura/Downloads/C:/Users/Soura/AppData/Local/Temp/tmphtbb8uiw/Meshpart1_diff.png
+map_Bump C:/Users/Soura/Downloads/C:/Users/Soura/AppData/Local/Temp/tmphtbb8uiw/Meshpart1_nmap.png
+
+newmtl Meshpart3Mtl
+Ka 1.000000 1.000000 1.000000
+Kd 0.144972 0.144972 0.144972
+Ks 0.038091 0.038091 0.038091
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns C:/Users/Soura/Downloads/C:/Users/Soura/AppData/Local/Temp/tmphtbb8uiw/Meshpart3_spec.png
+map_Bump C:/Users/Soura/Downloads/C:/Users/Soura/AppData/Local/Temp/tmphtbb8uiw/Meshpart3_nmap.png
